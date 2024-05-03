@@ -1,0 +1,9 @@
+data/*
+experiments/*
+
+# pycache
+*/__pycache__/*
+**/__pycache__/*
+
+test_*.ipynb
+test.ipynb
